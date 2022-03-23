@@ -697,7 +697,7 @@ body {
 .card-text h2 {
   margin-top: 0px;
   font-size: 28px;
-  font-family: fantasy;
+  font-family: fantasy, Geneva, Verdana, sans-serif;
 }
 
 .card-stats {
